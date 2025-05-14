@@ -1,0 +1,10 @@
+whisper-openai
+ollama
+gTTS
+sounddevice
+soundfile
+uuid
+pygame
+Pillow
+numpy
+PyQt5
